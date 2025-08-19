@@ -1,1 +1,1 @@
-Versión distinta desde feature/conflicto
+Versión desde develop

@@ -1,2 +1,1 @@
-Mi primer repositorio
-Nueva funcionalidad en progreso
+Versión distinta desde feature/conflicto
